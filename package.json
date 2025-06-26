@@ -1,0 +1,24 @@
+{
+  "name": "leagle",
+  "version": "1.0.0",
+  "description": "Leagle: Learn Constitution the Fun Way! Educational platform for constitutional education",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Build complete - static files ready'",
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "constitution",
+    "education",
+    "legal",
+    "interactive",
+    "learning"
+  ],
+  "author": "Polymath Technologies Pvt Ltd",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
